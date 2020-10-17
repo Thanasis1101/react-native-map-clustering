@@ -1,4 +1,8 @@
-﻿# React Native Map Clustering
+# Fork's purpose
+
+This fork was made as a work-arround because tracksViewChanges was undefined in the original package, and not false.
+
+# React Native Map Clustering
 
 React Native module that handles map clustering for you.
 
@@ -11,8 +15,7 @@ Works with **Expo** and **react-native-cli** 🚀
 ## Installation
 
 ```js
-npm install react-native-map-clustering --save
-// yarn add react-native-map-clustering
+npm install Thanasis1101/react-native-map-clustering --save
 
 // and only if you haven't installed it before
 npm install react-native-maps --save
